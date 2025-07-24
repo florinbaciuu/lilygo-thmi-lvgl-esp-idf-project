@@ -1,4 +1,5 @@
 {
+  "idf.enableCCache": true,
   "idf.hasWalkthroughBeenShown": true,
   "idf.espIdfPathWin": "C:/Espressif/frameworks/esp-idf-v5.5/",
   "idf.toolsPathWin": "C:\\Espressif",
